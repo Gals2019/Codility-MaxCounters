@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-MaxCounters", "Codility-MaxCounters.csproj", "{D495DA39-F509-4656-93AD-674C74C3ECBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D495DA39-F509-4656-93AD-674C74C3ECBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D495DA39-F509-4656-93AD-674C74C3ECBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D495DA39-F509-4656-93AD-674C74C3ECBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D495DA39-F509-4656-93AD-674C74C3ECBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B2E4834-77E4-4FE8-9FC2-74659B5F3C27}
+	EndGlobalSection
+EndGlobal
